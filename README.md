@@ -1,0 +1,2 @@
+# MathBot
+Discord math bot
